@@ -1,0 +1,10 @@
+C:\Users\shylo\Desktop\RadioGui\RadioGui\bin\Debug\RadioGui.exe.config
+C:\Users\shylo\Desktop\RadioGui\RadioGui\bin\Debug\RadioGui.exe
+C:\Users\shylo\Desktop\RadioGui\RadioGui\bin\Debug\RadioGui.pdb
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.csprojAssemblyReference.cache
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.Properties.Resources.resources
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.csproj.GenerateResource.cache
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.csproj.CoreCompileInputs.cache
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.exe
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.pdb
+C:\Users\shylo\Desktop\RadioGui\RadioGui\obj\Debug\RadioGui.MainForm.resources
